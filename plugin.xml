@@ -65,7 +65,7 @@
     </config-file>
 
     <preference name="ANDROIDX_CORE_VERSION" default="1.6.+"/>
-    <preference name="FCM_VERSION" default="22.0.0"/>
+    <preference name="FCM_VERSION" default="23.+"/>
 
     <framework src="androidx.core:core:$ANDROIDX_CORE_VERSION" />
     <framework src="me.leolin:ShortcutBadger:1.1.22@aar"/>
